@@ -23,7 +23,7 @@ O objetivo principal foi aprender a validar o comportamento de componentes e hoo
 
 1.  **Clone o repositório:**
     ```bash
-    git clone 
+    git clone https://github.com/heldo07/amigo-secreto.git
     ```
 
 2.  **Instale as dependências:**
